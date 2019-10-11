@@ -3822,7 +3822,7 @@ Perl:
   aliases:
   - cperl
   language_id: 282
-Perl 6:
+Raku:
   type: programming
   color: "#0000fb"
   extensions:
